@@ -12,3 +12,6 @@ More info about the gnid blob at [/r/PFSENSE](https://www.reddit.com/r/PFSENSE/c
 ![Where's the source code comedy yet again..](https://github.com/doktornotor/pfsense-still-closedsource/blob/master/img/Netgate%20Unique%20ID%20gnid%20blob%2001.png)
 ![Where's the source code comedy yet again..](https://github.com/doktornotor/pfsense-still-closedsource/blob/master/img/Netgate%20Unique%20ID%20gnid%20blob%2002.png)
 ***
+
+## DMCA takedown note
+The ```kill-copynotice-spam-243.diff``` and ```kill-copynotice-spam.diff``` patches (consisting of commenting out a single line with PHP include in ```index.php```) have been removed due to [DMCA request](https://github.com/github/dmca/blob/master/2018/2018-04-30-pfSense.md). Considering that simply reloading the page in browser makes the stupid copyright spam vanish without forcing users to actually accept the terms, the money spent on lawyers must have been well worth it. ROFLMAO @gonzo.
