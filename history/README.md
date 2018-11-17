@@ -62,6 +62,6 @@ _"To the benefit of even greater customer value"_ this "open-source" company is 
  
  ![https://www.netgate.com/blog/fake-news-annoying-fake-product-serious.html](https://github.com/doktornotor/pfsense-still-closedsource/blob/master/img/Netgate_DRM.png)
  
-Yeah sure, an "open-source" firewall that I cannot tweak in any way (or it refuses to work), nor use my own (or third-party) packages for it (or it refuses to work) and where some proprietary blog decides whether I am _"authorized to receive software and package updates"_, that is *exactly* why people choose open-source solutions. Good that _"there is potential to take product verification much further"_. You got it spot on, Gonzo...
+Yeah sure, an "open-source" firewall that I cannot tweak in any way (or it refuses to work), nor use my own (or third-party) packages for it (or it refuses to work) and where some proprietary blob decides whether I am _"authorized to receive software and package updates"_, that is *exactly* why people choose open-source solutions. Good that _"there is potential to take product verification much further"_. You got it spot on, Gonzo...
 
-*Run, Forrest, run!!!*
+**Run, Forrest, run!!!**
